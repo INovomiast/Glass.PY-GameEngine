@@ -4,7 +4,7 @@
 #### _The old repo will be Archived, new version will be upload here_
 
 <div align="center">
-  <img src="#logo" alt="Glass.PY Logo"/>
+  <img src="https://github.com/INovomiast/Glass.PY-GameEngine/blob/main/Glass.PYLogo.png" alt="Glass.PY Logo"/>
 </div>
 
 ## What is Glass Engine?
