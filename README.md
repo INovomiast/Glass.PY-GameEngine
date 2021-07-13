@@ -1,3 +1,5 @@
+# **CANCELLED!**
+
 # GlassEngine - Python Game Engine V.1.0
 
 ### This is a migration of GlassEngine created by FireballDevelopment
@@ -49,3 +51,5 @@ This Game Engine was developed using the next Modules and Libraries:
  - TKinter
  - PyGame
  - Glass.pyLib
+
+# **CANCELLED!**
